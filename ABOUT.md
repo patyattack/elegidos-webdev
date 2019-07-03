@@ -13,7 +13,7 @@ Juntarnos una vez a la semana, profundizar en un tema trabajando en equipo, comp
 
 ## Recursos
 
-En el archivo [Rolodex](https://github.com/patyattack/elegidos-webdev/blob/master/ROLODEX.md) se encuentran links referidos a cada uno de los temas. Ver ese archivo para acceder.
+En el archivo [Rolodex](https://github.com/patyattack/elegidos-webdev/blob/master/ROLODEX.md) se encuentran los links de recursos para cada uno de los temas. Se etiqueta titulo y autor.
 
 ## Proyectos
 
