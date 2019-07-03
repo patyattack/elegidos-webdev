@@ -17,4 +17,4 @@ En el archivo [Rolodex](https://github.com/patyattack/elegidos-webdev/blob/maste
 
 ## Proyectos
 
-A futuro agregaremos links a de los proyectos que vamos construyendo.
+A futuro agregaremos links a los proyectos que vayamos construyendo.
